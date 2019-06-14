@@ -1,0 +1,36 @@
+body {
+    background-color: efeee7;
+    font: Georgia,"Times New Roman",Times,serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333333;
+}
+
+h1 {
+    background-color: #333333;
+    color: #eee;
+    font-size: 28px;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
+}
+
+#contact-info{
+    float: right;
+}
+.container{
+    margin: 25px;
+    display: inline-block;
+    vertical-align: top;
+}
+
